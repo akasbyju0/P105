@@ -1,0 +1,5 @@
+body{background-color: aqua;
+color:rgb(245, 188, 76); text-align:center;
+}
+#camera{border:3px solid red; width: 350px; height: 300px;
+}
